@@ -1,0 +1,13 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+  color: white;
+  background-color: black;
+  text-align: center; }
+
+body {
+  display: inline-block;
+  margin-top: 20%; }
